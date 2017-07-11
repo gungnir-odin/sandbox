@@ -5,6 +5,4 @@
 
 ## pull request2
 
-## pull request3
-
 ## ラインコメント入れてもらう
